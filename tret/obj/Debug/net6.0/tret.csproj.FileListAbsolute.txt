@@ -1,0 +1,15 @@
+E:\учёба GEEK BRAINS\программиров. на С#\4.4 семинарское\tret\bin\Debug\net6.0\tret.exe
+E:\учёба GEEK BRAINS\программиров. на С#\4.4 семинарское\tret\bin\Debug\net6.0\tret.deps.json
+E:\учёба GEEK BRAINS\программиров. на С#\4.4 семинарское\tret\bin\Debug\net6.0\tret.runtimeconfig.json
+E:\учёба GEEK BRAINS\программиров. на С#\4.4 семинарское\tret\bin\Debug\net6.0\tret.dll
+E:\учёба GEEK BRAINS\программиров. на С#\4.4 семинарское\tret\bin\Debug\net6.0\tret.pdb
+E:\учёба GEEK BRAINS\программиров. на С#\4.4 семинарское\tret\obj\Debug\net6.0\tret.csproj.AssemblyReference.cache
+E:\учёба GEEK BRAINS\программиров. на С#\4.4 семинарское\tret\obj\Debug\net6.0\tret.GeneratedMSBuildEditorConfig.editorconfig
+E:\учёба GEEK BRAINS\программиров. на С#\4.4 семинарское\tret\obj\Debug\net6.0\tret.AssemblyInfoInputs.cache
+E:\учёба GEEK BRAINS\программиров. на С#\4.4 семинарское\tret\obj\Debug\net6.0\tret.AssemblyInfo.cs
+E:\учёба GEEK BRAINS\программиров. на С#\4.4 семинарское\tret\obj\Debug\net6.0\tret.csproj.CoreCompileInputs.cache
+E:\учёба GEEK BRAINS\программиров. на С#\4.4 семинарское\tret\obj\Debug\net6.0\tret.dll
+E:\учёба GEEK BRAINS\программиров. на С#\4.4 семинарское\tret\obj\Debug\net6.0\refint\tret.dll
+E:\учёба GEEK BRAINS\программиров. на С#\4.4 семинарское\tret\obj\Debug\net6.0\tret.pdb
+E:\учёба GEEK BRAINS\программиров. на С#\4.4 семинарское\tret\obj\Debug\net6.0\tret.genruntimeconfig.cache
+E:\учёба GEEK BRAINS\программиров. на С#\4.4 семинарское\tret\obj\Debug\net6.0\ref\tret.dll

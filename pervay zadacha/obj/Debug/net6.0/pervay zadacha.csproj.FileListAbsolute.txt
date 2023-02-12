@@ -1,0 +1,15 @@
+E:\учёба GEEK BRAINS\программиров. на С#\4.4 семинарское\pervay zadacha\obj\Debug\net6.0\pervay zadacha.csproj.AssemblyReference.cache
+E:\учёба GEEK BRAINS\программиров. на С#\4.4 семинарское\pervay zadacha\obj\Debug\net6.0\pervay zadacha.GeneratedMSBuildEditorConfig.editorconfig
+E:\учёба GEEK BRAINS\программиров. на С#\4.4 семинарское\pervay zadacha\obj\Debug\net6.0\pervay zadacha.AssemblyInfoInputs.cache
+E:\учёба GEEK BRAINS\программиров. на С#\4.4 семинарское\pervay zadacha\obj\Debug\net6.0\pervay zadacha.AssemblyInfo.cs
+E:\учёба GEEK BRAINS\программиров. на С#\4.4 семинарское\pervay zadacha\obj\Debug\net6.0\pervay zadacha.csproj.CoreCompileInputs.cache
+E:\учёба GEEK BRAINS\программиров. на С#\4.4 семинарское\pervay zadacha\bin\Debug\net6.0\pervay zadacha.exe
+E:\учёба GEEK BRAINS\программиров. на С#\4.4 семинарское\pervay zadacha\bin\Debug\net6.0\pervay zadacha.deps.json
+E:\учёба GEEK BRAINS\программиров. на С#\4.4 семинарское\pervay zadacha\bin\Debug\net6.0\pervay zadacha.runtimeconfig.json
+E:\учёба GEEK BRAINS\программиров. на С#\4.4 семинарское\pervay zadacha\bin\Debug\net6.0\pervay zadacha.dll
+E:\учёба GEEK BRAINS\программиров. на С#\4.4 семинарское\pervay zadacha\bin\Debug\net6.0\pervay zadacha.pdb
+E:\учёба GEEK BRAINS\программиров. на С#\4.4 семинарское\pervay zadacha\obj\Debug\net6.0\pervay zadacha.dll
+E:\учёба GEEK BRAINS\программиров. на С#\4.4 семинарское\pervay zadacha\obj\Debug\net6.0\refint\pervay zadacha.dll
+E:\учёба GEEK BRAINS\программиров. на С#\4.4 семинарское\pervay zadacha\obj\Debug\net6.0\pervay zadacha.pdb
+E:\учёба GEEK BRAINS\программиров. на С#\4.4 семинарское\pervay zadacha\obj\Debug\net6.0\pervay zadacha.genruntimeconfig.cache
+E:\учёба GEEK BRAINS\программиров. на С#\4.4 семинарское\pervay zadacha\obj\Debug\net6.0\ref\pervay zadacha.dll

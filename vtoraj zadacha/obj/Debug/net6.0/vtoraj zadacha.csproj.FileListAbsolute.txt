@@ -1,0 +1,30 @@
+E:\учёба GEEK BRAINS\программиров. на С#\4.4 семинарское\pervay zadacha\vtoraj zadacha\bin\Debug\net6.0\vtoraj zadacha.exe
+E:\учёба GEEK BRAINS\программиров. на С#\4.4 семинарское\pervay zadacha\vtoraj zadacha\bin\Debug\net6.0\vtoraj zadacha.deps.json
+E:\учёба GEEK BRAINS\программиров. на С#\4.4 семинарское\pervay zadacha\vtoraj zadacha\bin\Debug\net6.0\vtoraj zadacha.runtimeconfig.json
+E:\учёба GEEK BRAINS\программиров. на С#\4.4 семинарское\pervay zadacha\vtoraj zadacha\bin\Debug\net6.0\vtoraj zadacha.dll
+E:\учёба GEEK BRAINS\программиров. на С#\4.4 семинарское\pervay zadacha\vtoraj zadacha\bin\Debug\net6.0\vtoraj zadacha.pdb
+E:\учёба GEEK BRAINS\программиров. на С#\4.4 семинарское\pervay zadacha\vtoraj zadacha\obj\Debug\net6.0\vtoraj zadacha.csproj.AssemblyReference.cache
+E:\учёба GEEK BRAINS\программиров. на С#\4.4 семинарское\pervay zadacha\vtoraj zadacha\obj\Debug\net6.0\vtoraj zadacha.GeneratedMSBuildEditorConfig.editorconfig
+E:\учёба GEEK BRAINS\программиров. на С#\4.4 семинарское\pervay zadacha\vtoraj zadacha\obj\Debug\net6.0\vtoraj zadacha.AssemblyInfoInputs.cache
+E:\учёба GEEK BRAINS\программиров. на С#\4.4 семинарское\pervay zadacha\vtoraj zadacha\obj\Debug\net6.0\vtoraj zadacha.AssemblyInfo.cs
+E:\учёба GEEK BRAINS\программиров. на С#\4.4 семинарское\pervay zadacha\vtoraj zadacha\obj\Debug\net6.0\vtoraj zadacha.csproj.CoreCompileInputs.cache
+E:\учёба GEEK BRAINS\программиров. на С#\4.4 семинарское\pervay zadacha\vtoraj zadacha\obj\Debug\net6.0\vtoraj zadacha.dll
+E:\учёба GEEK BRAINS\программиров. на С#\4.4 семинарское\pervay zadacha\vtoraj zadacha\obj\Debug\net6.0\refint\vtoraj zadacha.dll
+E:\учёба GEEK BRAINS\программиров. на С#\4.4 семинарское\pervay zadacha\vtoraj zadacha\obj\Debug\net6.0\vtoraj zadacha.pdb
+E:\учёба GEEK BRAINS\программиров. на С#\4.4 семинарское\pervay zadacha\vtoraj zadacha\obj\Debug\net6.0\vtoraj zadacha.genruntimeconfig.cache
+E:\учёба GEEK BRAINS\программиров. на С#\4.4 семинарское\pervay zadacha\vtoraj zadacha\obj\Debug\net6.0\ref\vtoraj zadacha.dll
+E:\учёба GEEK BRAINS\программиров. на С#\4.4 семинарское\vtoraj zadacha\bin\Debug\net6.0\vtoraj zadacha.exe
+E:\учёба GEEK BRAINS\программиров. на С#\4.4 семинарское\vtoraj zadacha\bin\Debug\net6.0\vtoraj zadacha.deps.json
+E:\учёба GEEK BRAINS\программиров. на С#\4.4 семинарское\vtoraj zadacha\bin\Debug\net6.0\vtoraj zadacha.runtimeconfig.json
+E:\учёба GEEK BRAINS\программиров. на С#\4.4 семинарское\vtoraj zadacha\bin\Debug\net6.0\vtoraj zadacha.dll
+E:\учёба GEEK BRAINS\программиров. на С#\4.4 семинарское\vtoraj zadacha\bin\Debug\net6.0\vtoraj zadacha.pdb
+E:\учёба GEEK BRAINS\программиров. на С#\4.4 семинарское\vtoraj zadacha\obj\Debug\net6.0\vtoraj zadacha.csproj.AssemblyReference.cache
+E:\учёба GEEK BRAINS\программиров. на С#\4.4 семинарское\vtoraj zadacha\obj\Debug\net6.0\vtoraj zadacha.GeneratedMSBuildEditorConfig.editorconfig
+E:\учёба GEEK BRAINS\программиров. на С#\4.4 семинарское\vtoraj zadacha\obj\Debug\net6.0\vtoraj zadacha.AssemblyInfoInputs.cache
+E:\учёба GEEK BRAINS\программиров. на С#\4.4 семинарское\vtoraj zadacha\obj\Debug\net6.0\vtoraj zadacha.AssemblyInfo.cs
+E:\учёба GEEK BRAINS\программиров. на С#\4.4 семинарское\vtoraj zadacha\obj\Debug\net6.0\vtoraj zadacha.csproj.CoreCompileInputs.cache
+E:\учёба GEEK BRAINS\программиров. на С#\4.4 семинарское\vtoraj zadacha\obj\Debug\net6.0\vtoraj zadacha.dll
+E:\учёба GEEK BRAINS\программиров. на С#\4.4 семинарское\vtoraj zadacha\obj\Debug\net6.0\refint\vtoraj zadacha.dll
+E:\учёба GEEK BRAINS\программиров. на С#\4.4 семинарское\vtoraj zadacha\obj\Debug\net6.0\vtoraj zadacha.pdb
+E:\учёба GEEK BRAINS\программиров. на С#\4.4 семинарское\vtoraj zadacha\obj\Debug\net6.0\vtoraj zadacha.genruntimeconfig.cache
+E:\учёба GEEK BRAINS\программиров. на С#\4.4 семинарское\vtoraj zadacha\obj\Debug\net6.0\ref\vtoraj zadacha.dll

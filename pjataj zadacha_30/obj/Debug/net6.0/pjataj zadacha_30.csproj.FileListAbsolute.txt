@@ -1,0 +1,15 @@
+E:\учёба GEEK BRAINS\программиров. на С#\4.4 семинарское\pjataj zadacha_30\bin\Debug\net6.0\pjataj zadacha_30.exe
+E:\учёба GEEK BRAINS\программиров. на С#\4.4 семинарское\pjataj zadacha_30\bin\Debug\net6.0\pjataj zadacha_30.deps.json
+E:\учёба GEEK BRAINS\программиров. на С#\4.4 семинарское\pjataj zadacha_30\bin\Debug\net6.0\pjataj zadacha_30.runtimeconfig.json
+E:\учёба GEEK BRAINS\программиров. на С#\4.4 семинарское\pjataj zadacha_30\bin\Debug\net6.0\pjataj zadacha_30.dll
+E:\учёба GEEK BRAINS\программиров. на С#\4.4 семинарское\pjataj zadacha_30\bin\Debug\net6.0\pjataj zadacha_30.pdb
+E:\учёба GEEK BRAINS\программиров. на С#\4.4 семинарское\pjataj zadacha_30\obj\Debug\net6.0\pjataj zadacha_30.csproj.AssemblyReference.cache
+E:\учёба GEEK BRAINS\программиров. на С#\4.4 семинарское\pjataj zadacha_30\obj\Debug\net6.0\pjataj zadacha_30.GeneratedMSBuildEditorConfig.editorconfig
+E:\учёба GEEK BRAINS\программиров. на С#\4.4 семинарское\pjataj zadacha_30\obj\Debug\net6.0\pjataj zadacha_30.AssemblyInfoInputs.cache
+E:\учёба GEEK BRAINS\программиров. на С#\4.4 семинарское\pjataj zadacha_30\obj\Debug\net6.0\pjataj zadacha_30.AssemblyInfo.cs
+E:\учёба GEEK BRAINS\программиров. на С#\4.4 семинарское\pjataj zadacha_30\obj\Debug\net6.0\pjataj zadacha_30.csproj.CoreCompileInputs.cache
+E:\учёба GEEK BRAINS\программиров. на С#\4.4 семинарское\pjataj zadacha_30\obj\Debug\net6.0\pjataj zadacha_30.dll
+E:\учёба GEEK BRAINS\программиров. на С#\4.4 семинарское\pjataj zadacha_30\obj\Debug\net6.0\refint\pjataj zadacha_30.dll
+E:\учёба GEEK BRAINS\программиров. на С#\4.4 семинарское\pjataj zadacha_30\obj\Debug\net6.0\pjataj zadacha_30.pdb
+E:\учёба GEEK BRAINS\программиров. на С#\4.4 семинарское\pjataj zadacha_30\obj\Debug\net6.0\pjataj zadacha_30.genruntimeconfig.cache
+E:\учёба GEEK BRAINS\программиров. на С#\4.4 семинарское\pjataj zadacha_30\obj\Debug\net6.0\ref\pjataj zadacha_30.dll

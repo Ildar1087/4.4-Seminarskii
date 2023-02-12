@@ -1,0 +1,15 @@
+E:\учёба GEEK BRAINS\программиров. на С#\4.4 семинарское\chetvertaj 26\bin\Debug\net6.0\chetvertaj 26.exe
+E:\учёба GEEK BRAINS\программиров. на С#\4.4 семинарское\chetvertaj 26\bin\Debug\net6.0\chetvertaj 26.deps.json
+E:\учёба GEEK BRAINS\программиров. на С#\4.4 семинарское\chetvertaj 26\bin\Debug\net6.0\chetvertaj 26.runtimeconfig.json
+E:\учёба GEEK BRAINS\программиров. на С#\4.4 семинарское\chetvertaj 26\bin\Debug\net6.0\chetvertaj 26.dll
+E:\учёба GEEK BRAINS\программиров. на С#\4.4 семинарское\chetvertaj 26\bin\Debug\net6.0\chetvertaj 26.pdb
+E:\учёба GEEK BRAINS\программиров. на С#\4.4 семинарское\chetvertaj 26\obj\Debug\net6.0\chetvertaj 26.csproj.AssemblyReference.cache
+E:\учёба GEEK BRAINS\программиров. на С#\4.4 семинарское\chetvertaj 26\obj\Debug\net6.0\chetvertaj 26.GeneratedMSBuildEditorConfig.editorconfig
+E:\учёба GEEK BRAINS\программиров. на С#\4.4 семинарское\chetvertaj 26\obj\Debug\net6.0\chetvertaj 26.AssemblyInfoInputs.cache
+E:\учёба GEEK BRAINS\программиров. на С#\4.4 семинарское\chetvertaj 26\obj\Debug\net6.0\chetvertaj 26.AssemblyInfo.cs
+E:\учёба GEEK BRAINS\программиров. на С#\4.4 семинарское\chetvertaj 26\obj\Debug\net6.0\chetvertaj 26.csproj.CoreCompileInputs.cache
+E:\учёба GEEK BRAINS\программиров. на С#\4.4 семинарское\chetvertaj 26\obj\Debug\net6.0\chetvertaj 26.dll
+E:\учёба GEEK BRAINS\программиров. на С#\4.4 семинарское\chetvertaj 26\obj\Debug\net6.0\refint\chetvertaj 26.dll
+E:\учёба GEEK BRAINS\программиров. на С#\4.4 семинарское\chetvertaj 26\obj\Debug\net6.0\chetvertaj 26.pdb
+E:\учёба GEEK BRAINS\программиров. на С#\4.4 семинарское\chetvertaj 26\obj\Debug\net6.0\chetvertaj 26.genruntimeconfig.cache
+E:\учёба GEEK BRAINS\программиров. на С#\4.4 семинарское\chetvertaj 26\obj\Debug\net6.0\ref\chetvertaj 26.dll
